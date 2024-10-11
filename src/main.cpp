@@ -2,8 +2,8 @@
 #include <WiFi.h>
 #include <WiFiUdp.h>
 
-const char *ssid = "Purple Lavenders";         // Replace with your network SSID
-const char *password = "need water"; // Replace with your network password
+const char *ssid = "****** ********";         // Replace with your network SSID
+const char *password = "**** *****"; // Replace with your network password
 
 WiFiUDP udp;
 unsigned int localUdpPort = 12345;      // Local port to listen on
